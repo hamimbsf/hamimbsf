@@ -4,11 +4,9 @@
 
 <h1 align="left">Coding My Way to Full-Stack Glory</h1>
 
-###
 
 <p align="left">Hi! I'm Hamim Hossain, a passionate web developer and a tech enthusiast. I love building responsive and user-friendly websites.</p>
 
-###
 
 <h2 align="left">About me</h2>
 
